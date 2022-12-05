@@ -1,0 +1,19 @@
+# .gitignore 
+# Project files and directories 
+/myapp/local_settings.py 
+/myapp/static/ 
+/myapp/tmp/ 
+/myapp/media/ 
+# Byte-compiled 
+/ optimized 
+/ DLL files 
+__pycache__/ 
+*.py[cod] *$py.class 
+# C extensions 
+*.so 
+# PyInstaller 
+*.manifest *.spec 
+# Installer logs 
+pip-log.txt 
+pip-delete-this-directory.txt 
+# Unit test
